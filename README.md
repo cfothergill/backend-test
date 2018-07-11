@@ -1,6 +1,6 @@
-# Backend Test
+# Backend Test
 
-## Assumptions
+## Assumptions
 
 - There are no user accounts, any `User-Id` header is valid.
 - There are no courses, any `courseId` is valid. 
